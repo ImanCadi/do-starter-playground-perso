@@ -1102,15 +1102,11 @@ function HomepageComments() {
                 <li className="rounded-lg border border-violet-700 bg-violet-900/60 p-3">
                     <strong className="font-semibold text-white">Data sources.</strong> Journey
                     routes, train arrivals and Tube status are requested live from TfL; the
-                    BikePoint live request is used for locked-station counts. The map geometry,
-                    bike/dock stock and fallback arrivals are stored snapshots in{' '}
-                    <code className="text-violet-200">public/data</code>. The downloaded{' '}
-                    <code className="text-violet-200">data_bikes.json</code> and{' '}
-                    <code className="text-violet-200">data_tubes.json</code> tables feed{' '}
-                    <code className="text-violet-200">prepare-transport-data.py</code>, which
-                    refreshes bike stock and fallback arrivals; curated Tube lines and stations stay
-                    local. This keeps the map quick to load while live requests provide changing
-                    journey and service information.
+                    BikePoint live request is used for locked-station counts. Map geometry, bike
+                    stock and fallback arrivals are stored snapshots in{' '}
+                    <code className="text-violet-200">public/data</code>; the deleted downloaded
+                    tables and notebook are not needed to run the site. This keeps the map quick to
+                    load while live requests provide changing journey and service information.
                 </li>
             </ul>
         </section>
