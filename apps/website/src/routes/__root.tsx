@@ -21,17 +21,18 @@ export const Route = createRootRouteWithContext()({
                 content: 'width=device-width, initial-scale=1'
             },
             {
-                title: 'DO app'
+                title: 'Bike vs Tube | London Journey Comparison'
             },
             {
                 name: 'description',
-                content: 'A minimal DO app starter'
+                content:
+                    'Compare London Underground and bike journeys by time, price and availability.'
             }
         ],
         links: [
             {
                 rel: 'icon',
-                href: '/favicon.ico'
+                href: '/favicon.svg'
             },
             { rel: 'stylesheet', href: appCss }
         ]

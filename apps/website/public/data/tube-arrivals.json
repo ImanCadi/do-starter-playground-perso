@@ -1,0 +1,1689 @@
+{
+    "arrivals": [
+        {
+            "stationId": "940GZZLUTMP",
+            "stationName": "Temple",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 1,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHTD",
+            "stationName": "Hampstead",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Kennington Underground Station",
+            "seconds": 1,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLULVT",
+            "stationName": "Liverpool Street",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Hammersmith (H&C Line) Underground Station",
+            "seconds": 1,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTWH",
+            "stationName": "Tower Hill",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 2,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWYP",
+            "stationName": "Wembley Park",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stanmore Underground Station",
+            "seconds": 2,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHCL",
+            "stationName": "Hendon Central",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Kennington Underground Station",
+            "seconds": 3,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHBT",
+            "stationName": "High Barnet",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Morden Underground Station",
+            "seconds": 3,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWHM",
+            "stationName": "West Ham",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stanmore Underground Station",
+            "seconds": 5,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUUPB",
+            "stationName": "Upminster Bridge",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 5,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWHP",
+            "stationName": "West Hampstead",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "North Greenwich Underground Station",
+            "seconds": 8,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUKNB",
+            "stationName": "Knightsbridge",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Arnos Grove Underground Station",
+            "seconds": 8,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWSM",
+            "stationName": "Westminster",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stratford Underground Station",
+            "seconds": 8,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWIG",
+            "stationName": "Willesden Green",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stanmore Underground Station",
+            "seconds": 10,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUKNG",
+            "stationName": "Kennington",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Kennington Underground Station",
+            "seconds": 10,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWBN",
+            "stationName": "West Brompton",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Tower Hill Underground Station",
+            "seconds": 11,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMRH",
+            "stationName": "Manor House",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 12,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUKSH",
+            "stationName": "Kentish Town",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "High Barnet Underground Station",
+            "seconds": 12,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUPAH",
+            "stationName": "Paddington (H&C Line)-Underground",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Barking Underground Station",
+            "seconds": 13,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUNEN",
+            "stationName": "North Ealing",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 15,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWPL",
+            "stationName": "Whitechapel",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 17,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWIM",
+            "stationName": "Wimbledon",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 18,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSBM",
+            "stationName": "Shepherd's Bush Market",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Barking Underground Station",
+            "seconds": 18,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLULSQ",
+            "stationName": "Leicester Square",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Edgware Underground Station",
+            "seconds": 21,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUPAC",
+            "stationName": "Paddington",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUASL",
+            "stationName": "Arsenal",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUECM",
+            "stationName": "Ealing Common",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Rayners Lane Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUOAK",
+            "stationName": "Oakwood",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 4 Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUAGL",
+            "stationName": "Angel",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Morden Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUACT",
+            "stationName": "Acton Town",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 4 Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUALD",
+            "stationName": "Aldgate",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Aldgate Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWKN",
+            "stationName": "West Kensington",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHPC",
+            "stationName": "Hyde Park Corner",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 5 Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBZP",
+            "stationName": "Belsize Park",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Morden Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURBG",
+            "stationName": "Redbridge",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Hainault Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSKS",
+            "stationName": "South Kensington",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Ealing Broadway Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHAI",
+            "stationName": "Highbury & Islington",
+            "lineId": "victoria",
+            "lineName": "Victoria",
+            "destination": "Walthamstow Central Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUPSG",
+            "stationName": "Parsons Green",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Barking Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWHW",
+            "stationName": "West Harrow",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURYL",
+            "stationName": "Rayners Lane",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Rayners Lane Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHLT",
+            "stationName": "Hainault",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Hainault Underground Station",
+            "seconds": 24,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMVL",
+            "stationName": "Maida Vale",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHGR",
+            "stationName": "Hanger Lane",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Hainault Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURSM",
+            "stationName": "Ruislip Manor",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBXN",
+            "stationName": "Brixton",
+            "lineId": "victoria",
+            "lineName": "Victoria",
+            "destination": "Brixton Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUGFD",
+            "stationName": "Greenford",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "West Ruislip Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLULYS",
+            "stationName": "Leytonstone",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMGT",
+            "stationName": "Moorgate",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Mill Hill East Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBKE",
+            "stationName": "Barkingside",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Hainault Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUFPK",
+            "stationName": "Finsbury Park",
+            "lineId": "victoria",
+            "lineName": "Victoria",
+            "destination": "Walthamstow Central Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCPN",
+            "stationName": "Clapham North",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Edgware Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMSH",
+            "stationName": "Mansion House",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Richmond Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHWE",
+            "stationName": "Hounslow East",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURSQ",
+            "stationName": "Russell Square",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUDOH",
+            "stationName": "Dollis Hill",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Wembley Park Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSWK",
+            "stationName": "Southwark",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stanmore Underground Station",
+            "seconds": 25,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSEA",
+            "stationName": "South Ealing",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 26,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMDN",
+            "stationName": "Morden",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Morden Underground Station",
+            "seconds": 26,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMTC",
+            "stationName": "Mornington Crescent",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Battersea Power Station Underground Station",
+            "seconds": 27,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSHH",
+            "stationName": "South Harrow",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 27,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUODS",
+            "stationName": "Old Street",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Mill Hill East Underground Station",
+            "seconds": 27,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUUPK",
+            "stationName": "Upton Park",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Barking Underground Station",
+            "seconds": 28,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUOVL",
+            "stationName": "Oval",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Edgware Underground Station",
+            "seconds": 28,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSGT",
+            "stationName": "Southgate",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 28,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSUT",
+            "stationName": "Sudbury Town",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 28,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSWN",
+            "stationName": "South Wimbledon",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Morden Underground Station",
+            "seconds": 28,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTBC",
+            "stationName": "Tooting Bec",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Edgware Underground Station",
+            "seconds": 28,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWSP",
+            "stationName": "Westbourne Park",
+            "lineId": "circle",
+            "lineName": "Circle",
+            "destination": "Edgware Road (Circle Line) Underground Station",
+            "seconds": 29,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTBY",
+            "stationName": "Tooting Broadway",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Morden Underground Station",
+            "seconds": 29,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTCR",
+            "stationName": "Tottenham Court Road",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Edgware Underground Station",
+            "seconds": 29,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWOG",
+            "stationName": "Wood Green",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Rayners Lane Underground Station",
+            "seconds": 29,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWLA",
+            "stationName": "Wood Lane",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Hammersmith (H&C Line) Underground Station",
+            "seconds": 29,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTFP",
+            "stationName": "Tufnell Park",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Morden Underground Station",
+            "seconds": 30,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWFN",
+            "stationName": "West Finchley",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "High Barnet Underground Station",
+            "seconds": 30,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBSC",
+            "stationName": "Barons Court",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWYC",
+            "stationName": "Wembley Central",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUFCN",
+            "stationName": "Farringdon",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUESQ",
+            "stationName": "Euston Square",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Aldgate Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWJN",
+            "stationName": "Willesden Junction",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUAMS",
+            "stationName": "Amersham",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBLR",
+            "stationName": "Blackhorse Road",
+            "lineId": "victoria",
+            "lineName": "Victoria",
+            "destination": "Brixton Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBKH",
+            "stationName": "Buckhurst Hill",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHWT",
+            "stationName": "Hounslow West",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 5 Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBLG",
+            "stationName": "Bethnal Green",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUICK",
+            "stationName": "Ickenham",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBTX",
+            "stationName": "Brent Cross",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Kennington Underground Station",
+            "seconds": 54,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHGT",
+            "stationName": "Highgate",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Mill Hill East Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURGP",
+            "stationName": "Regent's Park",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Queen's Park Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUOXC",
+            "stationName": "Oxford Circus",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Hainault Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHOH",
+            "stationName": "Harrow-on-the-Hill",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Baker Street Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSVS",
+            "stationName": "Seven Sisters",
+            "lineId": "victoria",
+            "lineName": "Victoria",
+            "destination": "Walthamstow Central Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWOP",
+            "stationName": "Woodside Park",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "High Barnet Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUQPS",
+            "stationName": "Queen's Park",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Stonebridge Park Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUERB",
+            "stationName": "Edgware Road (Bakerloo)",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Harrow & Wealdstone Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLULNB",
+            "stationName": "London Bridge",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Willesden Green Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBBN",
+            "stationName": "Barbican",
+            "lineId": "circle",
+            "lineName": "Circle",
+            "destination": "Edgware Road (Circle Line) Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUFYR",
+            "stationName": "Finchley Road",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Willesden Green Underground Station",
+            "seconds": 55,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMMT",
+            "stationName": "Monument",
+            "lineId": "circle",
+            "lineName": "Circle",
+            "destination": "Edgware Road (Circle Line) Underground Station",
+            "seconds": 56,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCKS",
+            "stationName": "Cockfosters",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUEPK",
+            "stationName": "Elm Park",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUEHM",
+            "stationName": "East Ham",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLULBN",
+            "stationName": "Lambeth North",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUNFD",
+            "stationName": "Northfields",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 5 Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUADE",
+            "stationName": "Aldgate East",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWKA",
+            "stationName": "Warwick Avenue",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBEC",
+            "stationName": "Becontree",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBDS",
+            "stationName": "Bounds Green",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBWR",
+            "stationName": "Bow Road",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUPKR",
+            "stationName": "Park Royal",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTNG",
+            "stationName": "Turnham Green",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHWY",
+            "stationName": "Holloway Road",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Arnos Grove Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUUPM",
+            "stationName": "Upminster",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 84,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTPN",
+            "stationName": "Turnpike Lane",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Arnos Grove Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUEAE",
+            "stationName": "Eastcote",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSBC",
+            "stationName": "Shepherd's Bush (Central)",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Grange Hill Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLULGT",
+            "stationName": "Lancaster Gate",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "North Acton Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSGP",
+            "stationName": "Stonebridge Park",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Harrow & Wealdstone Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUKEN",
+            "stationName": "Kenton",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUECT",
+            "stationName": "Earl's Court",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 4 Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUUXB",
+            "stationName": "Uxbridge",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBOS",
+            "stationName": "Boston Manor",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUNAN",
+            "stationName": "North Acton",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMBA",
+            "stationName": "Marble Arch",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "White City Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUERC",
+            "stationName": "Edgware Road (Circle Line)",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Barking Underground Station",
+            "seconds": 85,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUBMY",
+            "stationName": "Bermondsey",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stanmore Underground Station",
+            "seconds": 86,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURSP",
+            "stationName": "Ruislip",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 114,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCHX",
+            "stationName": "Charing Cross",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 114,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUEPY",
+            "stationName": "East Putney",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 114,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUOSY",
+            "stationName": "Osterley",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 4 Underground Station",
+            "seconds": 114,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWSD",
+            "stationName": "Wanstead",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "White City Underground Station",
+            "seconds": 114,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURVP",
+            "stationName": "Ravenscourt Park",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Ealing Broadway Underground Station",
+            "seconds": 114,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUPRD",
+            "stationName": "Preston Road",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 114,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTAW",
+            "stationName": "Totteridge & Whetstone",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Battersea Power Station Underground Station",
+            "seconds": 114,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUFLP",
+            "stationName": "Fairlop",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Hainault Underground Station",
+            "seconds": 115,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUTHB",
+            "stationName": "Theydon Bois",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "North Acton Underground Station",
+            "seconds": 115,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUUPY",
+            "stationName": "Upney",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 115,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCTN",
+            "stationName": "Camden Town",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Kennington Underground Station",
+            "seconds": 115,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCAR",
+            "stationName": "Caledonian Road",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 115,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSUH",
+            "stationName": "Sudbury Hill",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Uxbridge Underground Station",
+            "seconds": 115,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCGT",
+            "stationName": "Canning Town",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stanmore Underground Station",
+            "seconds": 115,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCPK",
+            "stationName": "Canons Park",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stanmore Underground Station",
+            "seconds": 116,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUGHK",
+            "stationName": "Goldhawk Road",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Hammersmith (H&C Line) Underground Station",
+            "seconds": 116,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCPS",
+            "stationName": "Clapham South",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "High Barnet Underground Station",
+            "seconds": 144,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUKPK",
+            "stationName": "Kilburn Park",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 144,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZNEUGST",
+            "stationName": "Nine Elms",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Mill Hill East Underground Station",
+            "seconds": 144,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUGTH",
+            "stationName": "Gants Hill",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Hainault Underground Station",
+            "seconds": 144,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUNHA",
+            "stationName": "North Harrow",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Aldgate Underground Station",
+            "seconds": 144,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUNHT",
+            "stationName": "Northolt",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "West Ruislip Underground Station",
+            "seconds": 145,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCWR",
+            "stationName": "Canada Water",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stanmore Underground Station",
+            "seconds": 145,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCST",
+            "stationName": "Cannon Street",
+            "lineId": "circle",
+            "lineName": "Circle",
+            "destination": "Edgware Road (Circle Line) Underground Station",
+            "seconds": 145,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLULRD",
+            "stationName": "Latimer Road",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Barking Underground Station",
+            "seconds": 146,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUKBY",
+            "stationName": "Kingsbury",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stratford Underground Station",
+            "seconds": 146,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHCH",
+            "stationName": "Hornchurch",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Richmond Underground Station",
+            "seconds": 174,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHR4",
+            "stationName": "Heathrow Terminal 4",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 4 Underground Station",
+            "seconds": 175,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUNOW",
+            "stationName": "Northwood",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "",
+            "seconds": 175,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUASG",
+            "stationName": "Arnos Grove",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 5 Underground Station",
+            "seconds": 175,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURKW",
+            "stationName": "Rickmansworth",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Amersham Underground Station",
+            "seconds": 175,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURYO",
+            "stationName": "Royal Oak",
+            "lineId": "hammersmith-city",
+            "lineName": "Hammersmith & City",
+            "destination": "Hammersmith (H&C Line) Underground Station",
+            "seconds": 176,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCPC",
+            "stationName": "Clapham Common",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Morden Underground Station",
+            "seconds": 204,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLULGN",
+            "stationName": "Loughton",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 205,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUDGY",
+            "stationName": "Dagenham Heathway",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 205,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUEAN",
+            "stationName": "East Acton",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 205,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUKBN",
+            "stationName": "Kilburn",
+            "lineId": "jubilee",
+            "lineName": "Jubilee",
+            "destination": "Stratford Underground Station",
+            "seconds": 206,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSNB",
+            "stationName": "Snaresbrook",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 234,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSPU",
+            "stationName": "St. Paul's",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 234,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHWC",
+            "stationName": "Hounslow Central",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 235,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUDGE",
+            "stationName": "Dagenham East",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 235,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSKT",
+            "stationName": "South Kenton",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "",
+            "seconds": 264,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUKSL",
+            "stationName": "Kensal Green",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Stonebridge Park Underground Station",
+            "seconds": 264,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCWP",
+            "stationName": "Chiswick Park",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Upminster Underground Station",
+            "seconds": 264,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCSM",
+            "stationName": "Chesham",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Chesham Underground Station",
+            "seconds": 265,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUNWH",
+            "stationName": "Northwood Hills",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Chesham Underground Station",
+            "seconds": 265,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCGN",
+            "stationName": "Covent Garden",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Heathrow Terminal 5 Underground Station",
+            "seconds": 265,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUSFS",
+            "stationName": "Southfields",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 265,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUEPG",
+            "stationName": "Epping",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Epping Underground Station",
+            "seconds": 324,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUDBN",
+            "stationName": "Debden",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "North Acton Underground Station",
+            "seconds": 324,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUNWY",
+            "stationName": "North Wembley",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Harrow & Wealdstone Underground Station",
+            "seconds": 324,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUMHL",
+            "stationName": "Mill Hill East",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Mill Hill East Underground Station",
+            "seconds": 325,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWIP",
+            "stationName": "Wimbledon Park",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Wimbledon Underground Station",
+            "seconds": 384,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCXY",
+            "stationName": "Croxley",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Watford Underground Station",
+            "seconds": 384,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUEBY",
+            "stationName": "Ealing Broadway",
+            "lineId": "district",
+            "lineName": "District",
+            "destination": "Ealing Broadway Underground Station",
+            "seconds": 384,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLURSG",
+            "stationName": "Ruislip Gardens",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "West Ruislip Underground Station",
+            "seconds": 385,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUALP",
+            "stationName": "Alperton",
+            "lineId": "piccadilly",
+            "lineName": "Piccadilly",
+            "destination": "Cockfosters Underground Station",
+            "seconds": 385,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCYD",
+            "stationName": "Chorleywood",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Amersham Underground Station",
+            "seconds": 385,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUHSN",
+            "stationName": "Harlesden",
+            "lineId": "bakerloo",
+            "lineName": "Bakerloo",
+            "destination": "Elephant & Castle Underground Station",
+            "seconds": 385,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZBPSUST",
+            "stationName": "Battersea Power Station",
+            "lineId": "northern",
+            "lineName": "Northern",
+            "destination": "Battersea Power Station Underground Station",
+            "seconds": 504,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUCAL",
+            "stationName": "Chalfont & Latimer",
+            "lineId": "metropolitan",
+            "lineName": "Metropolitan",
+            "destination": "Amersham Underground Station",
+            "seconds": 564,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        },
+        {
+            "stationId": "940GZZLUWTA",
+            "stationName": "West Acton",
+            "lineId": "central",
+            "lineName": "Central",
+            "destination": "Ealing Broadway Underground Station",
+            "seconds": 924,
+            "expectedArrival": "2026-11-16T15:43:59.2416626Z"
+        }
+    ],
+    "count": 187,
+    "capturedAt": "2026-11-16T15:43:59.2416626Z"
+}

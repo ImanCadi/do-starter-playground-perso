@@ -1,0 +1,3027 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0974918448345559, 51.5149545361712] },
+            "properties": {
+                "id": "940GZZLUSPU",
+                "name": "St. Paul's",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0337406981795917, 51.5252362552673] },
+            "properties": {
+                "id": "940GZZLUMED",
+                "name": "Mile End",
+                "lineNames": ["District", "Hammersmith & City", "Central"],
+                "colors": ["#007D32", "#F4A9BE", "#DC241F"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0546632680977047, 51.5272388869757] },
+            "properties": {
+                "id": "940GZZLUBLG",
+                "name": "Bethnal Green",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.00545943464186987, 51.5566054289395]
+            },
+            "properties": {
+                "id": "940GZZLULYN",
+                "name": "Leyton",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.02142019395183, 51.5806784712596] },
+            "properties": {
+                "id": "940GZZLUSNB",
+                "name": "Snaresbrook",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.00821066140340723, 51.5683222558993] },
+            "properties": {
+                "id": "940GZZLULYS",
+                "name": "Leytonstone",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0286474794217308, 51.5756029971839] },
+            "properties": {
+                "id": "940GZZLUWSD",
+                "name": "Wanstead",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0273888962449249, 51.5918936591862] },
+            "properties": {
+                "id": "940GZZLUSWF",
+                "name": "South Woodford",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0899472896189844, 51.5757067432974] },
+            "properties": {
+                "id": "940GZZLUNBP",
+                "name": "Newbury Park",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0886517754464329, 51.5857049575358] },
+            "properties": {
+                "id": "940GZZLUBKE",
+                "name": "Barkingside",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0910798221531036, 51.5955594831277] },
+            "properties": {
+                "id": "940GZZLUFLP",
+                "name": "Fairlop",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0340382439323804, 51.6068624242835] },
+            "properties": {
+                "id": "940GZZLUWOF",
+                "name": "Woodford",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0437360854895202, 51.6170800915503] },
+            "properties": {
+                "id": "940GZZLURVY",
+                "name": "Roding Valley",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0756217096307917, 51.6176545264783] },
+            "properties": {
+                "id": "940GZZLUCWL",
+                "name": "Chigwell",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.17596495802982, 51.516563062743] },
+            "properties": {
+                "id": "940GZZLUPAC",
+                "name": "Paddington",
+                "lineNames": ["Hammersmith & City", "District", "Circle", "Bakerloo"],
+                "colors": ["#F4A9BE", "#007D32", "#FFD300", "#894E24"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.017016176421667, 51.5312327784818] },
+            "properties": {
+                "id": "940GZZLUPLW",
+                "name": "Plaistow",
+                "lineNames": ["District", "Hammersmith & City"],
+                "colors": ["#007D32", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0352373143986502, 51.5353811421301] },
+            "properties": {
+                "id": "940GZZLUUPK",
+                "name": "Upton Park",
+                "lineNames": ["District", "Hammersmith & City"],
+                "colors": ["#007D32", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0528535364694723, 51.5394080163376] },
+            "properties": {
+                "id": "940GZZLUEHM",
+                "name": "East Ham",
+                "lineNames": ["District", "Hammersmith & City"],
+                "colors": ["#007D32", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.410696109804698, 51.56077688512] },
+            "properties": {
+                "id": "940GZZLURSG",
+                "name": "Ruislip Gardens",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.398845328625941, 51.556861433018] },
+            "properties": {
+                "id": "940GZZLUSRP",
+                "name": "South Ruislip",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.368628937494066, 51.5482602616564] },
+            "properties": {
+                "id": "940GZZLUNHT",
+                "name": "Northolt",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.437626140162556, 51.5696310313101] },
+            "properties": {
+                "id": "940GZZLUWRP",
+                "name": "West Ruislip",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.101580801616486, 51.5383556220537] },
+            "properties": {
+                "id": "940GZZLUUPY",
+                "name": "Upney",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.213759581683029, 51.5766720110708] },
+            "properties": {
+                "id": "940GZZLUBTX",
+                "name": "Brent Cross",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.249912887893222, 51.5954484631501] },
+            "properties": {
+                "id": "940GZZLUCND",
+                "name": "Colindale",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.263969437496311, 51.6028368571574] },
+            "properties": {
+                "id": "940GZZLUBTK",
+                "name": "Burnt Oak",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.21003599178201, 51.6082365189399] },
+            "properties": {
+                "id": "940GZZLUMHL",
+                "name": "Mill Hill East",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.193997309394488, 51.5722889058366] },
+            "properties": {
+                "id": "940GZZLUGGN",
+                "name": "Golders Green",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.19252922549939, 51.6009348679323] },
+            "properties": {
+                "id": "940GZZLUFYC",
+                "name": "Finchley Central",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.33660181396072, 51.5569667160283] },
+            "properties": {
+                "id": "940GZZLUSUH",
+                "name": "Sudbury Hill",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.315723404663266, 51.5508072804286] },
+            "properties": {
+                "id": "940GZZLUSUT",
+                "name": "Sudbury Town",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.30748301640737, 51.5009003575605] },
+            "properties": {
+                "id": "940GZZLUSEA",
+                "name": "South Ealing",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.283944537895108, 51.5264813145411] },
+            "properties": {
+                "id": "940GZZLUPKR",
+                "name": "Park Royal",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.299926137316424, 51.5407323726746] },
+            "properties": {
+                "id": "940GZZLUALP",
+                "name": "Alperton",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.154124887061521, 51.5027528559006] },
+            "properties": {
+                "id": "940GZZLUHPC",
+                "name": "Hyde Park Corner",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.161441486053111, 51.5012424520044] },
+            "properties": {
+                "id": "940GZZLUKNB",
+                "name": "Knightsbridge",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.128306746943324, 51.5114061801348] },
+            "properties": {
+                "id": "940GZZLULSQ",
+                "name": "Leicester Square",
+                "lineNames": ["Piccadilly", "Northern"],
+                "colors": ["#0019A8", "#111111"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.124341543174305, 51.5131460789873] },
+            "properties": {
+                "id": "940GZZLUCGN",
+                "name": "Covent Garden",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.124244105841182, 51.5230609966915] },
+            "properties": {
+                "id": "940GZZLURSQ",
+                "name": "Russell Square",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.113237215123649, 51.5527582103854] },
+            "properties": {
+                "id": "940GZZLUHWY",
+                "name": "Holloway Road",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.107258995220346, 51.5586182630652] },
+            "properties": {
+                "id": "940GZZLUASL",
+                "name": "Arsenal",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.133019683101503, 51.6164552153248] },
+            "properties": {
+                "id": "940GZZLUASG",
+                "name": "Arnos Grove",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.127736382206168, 51.6322612488299] },
+            "properties": {
+                "id": "940GZZLUSGT",
+                "name": "Southgate",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.149137109613063, 51.6515315378229] },
+            "properties": {
+                "id": "940GZZLUCKS",
+                "name": "Cockfosters",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.131242593808805, 51.6473364234459] },
+            "properties": {
+                "id": "910GENFCOAK",
+                "name": "Oakwood",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0960389623342464, 51.5707535853732] },
+            "properties": {
+                "id": "940GZZLUMRH",
+                "name": "Manor House",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.114226122796381, 51.5109859451486] },
+            "properties": {
+                "id": "940GZZLUTMP",
+                "name": "Temple",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.103603883187671, 51.5116263548801] },
+            "properties": {
+                "id": "940GZZLUBKF",
+                "name": "Blackfriars",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0940798853330688, 51.5118179804533] },
+            "properties": {
+                "id": "940GZZLUMSH",
+                "name": "Mansion House",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0903859613100684, 51.5114746298082] },
+            "properties": {
+                "id": "940GZZLUCST",
+                "name": "Cannon Street",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0765000853248546, 51.5099465212841] },
+            "properties": {
+                "id": "940GZZLUTWH",
+                "name": "Tower Hill",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0758226678159691, 51.5144938991707] },
+            "properties": {
+                "id": "940GZZLUALD",
+                "name": "Aldgate",
+                "lineNames": ["Metropolitan", "Circle"],
+                "colors": ["#751056", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0831871033322677, 51.5173539786175] },
+            "properties": {
+                "id": "940GZZLULVT",
+                "name": "Liverpool Street",
+                "lineNames": ["Metropolitan", "Central", "Circle", "Hammersmith & City"],
+                "colors": ["#751056", "#DC241F", "#FFD300", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0892854205876706, 51.5183647341257] },
+            "properties": {
+                "id": "940GZZLUMGT",
+                "name": "Moorgate",
+                "lineNames": ["Metropolitan", "Northern", "Circle", "Hammersmith & City"],
+                "colors": ["#751056", "#111111", "#FFD300", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0987739791946862, 51.5202103844398] },
+            "properties": {
+                "id": "940GZZLUBBN",
+                "name": "Barbican",
+                "lineNames": ["Metropolitan", "Circle", "Hammersmith & City"],
+                "colors": ["#751056", "#FFD300", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.105166098257485, 51.5204720783579] },
+            "properties": {
+                "id": "940GZZLUFCN",
+                "name": "Farringdon",
+                "lineNames": ["Metropolitan", "Circle", "Hammersmith & City"],
+                "colors": ["#751056", "#FFD300", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.124750344185488, 51.529787127414] },
+            "properties": {
+                "id": "940GZZLUKSX",
+                "name": "King's Cross St. Pancras",
+                "lineNames": [
+                    "Metropolitan",
+                    "Northern",
+                    "Piccadilly",
+                    "Circle",
+                    "Victoria",
+                    "Hammersmith & City"
+                ],
+                "colors": ["#751056", "#111111", "#0019A8", "#FFD300", "#009FE0", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.135851312776002, 51.5256349922743] },
+            "properties": {
+                "id": "940GZZLUESQ",
+                "name": "Euston Square",
+                "lineNames": ["Metropolitan", "Circle", "Hammersmith & City"],
+                "colors": ["#751056", "#FFD300", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.157032980300198, 51.523003746323] },
+            "properties": {
+                "id": "940GZZLUBST",
+                "name": "Baker Street",
+                "lineNames": [
+                    "Metropolitan",
+                    "Bakerloo",
+                    "Circle",
+                    "Jubilee",
+                    "Hammersmith & City"
+                ],
+                "colors": ["#751056", "#894E24", "#FFD300", "#A0A5A9", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.167748227536376, 51.519874113216] },
+            "properties": {
+                "id": "940GZZLUERC",
+                "name": "Edgware Road (Circle Line)",
+                "lineNames": ["Circle"],
+                "colors": ["#FFD300"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.17536614215852, 51.5155051713438] },
+            "properties": {
+                "id": "940GZZLUPAC",
+                "name": "Paddington",
+                "lineNames": ["Hammersmith & City", "District", "Circle", "Bakerloo"],
+                "colors": ["#F4A9BE", "#007D32", "#FFD300", "#894E24"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.187898072385123, 51.5123254197534] },
+            "properties": {
+                "id": "940GZZLUBWT",
+                "name": "Bayswater",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.192181979243048, 51.5004463089042] },
+            "properties": {
+                "id": "940GZZLUHSK",
+                "name": "High Street Kensington",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.18371055669604, 51.4944897326903] },
+            "properties": {
+                "id": "940GZZLUGTR",
+                "name": "Gloucester Road",
+                "lineNames": ["District", "Piccadilly", "Circle"],
+                "colors": ["#007D32", "#0019A8", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.173140744694982, 51.4940896863845] },
+            "properties": {
+                "id": "940GZZLUSKS",
+                "name": "South Kensington",
+                "lineNames": ["District", "Piccadilly", "Circle"],
+                "colors": ["#007D32", "#0019A8", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.26854880833146, 51.4946682889916] },
+            "properties": {
+                "id": "940GZZLUCWP",
+                "name": "Chiswick Park",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.199061896285376, 51.4340549280799] },
+            "properties": {
+                "id": "940GZZLUWIP",
+                "name": "Wimbledon Park",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.21103973778595, 51.4591498588384] },
+            "properties": {
+                "id": "940GZZLUEPY",
+                "name": "East Putney",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.205433285639364, 51.4907915454301] },
+            "properties": {
+                "id": "940GZZLUWKN",
+                "name": "West Kensington",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.20173953648515, 51.4749860987056] },
+            "properties": {
+                "id": "940GZZLUPSG",
+                "name": "Parsons Green",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.224438284364719, 51.5122166736237] },
+            "properties": {
+                "id": "940GZZLUWCY",
+                "name": "White City",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.218811085425774, 51.5043540320894] },
+            "properties": {
+                "id": "940GZZLUSBC",
+                "name": "Shepherd's Bush",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.205636397539602, 51.5071549123952] },
+            "properties": {
+                "id": "940GZZLUHPK",
+                "name": "Holland Park",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.127369132999237, 51.5403456308199] },
+            "properties": {
+                "id": "940GZZLUBEC",
+                "name": "Becontree",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.14306445018881, 51.4964021600764] },
+            "properties": {
+                "id": "940GZZLUVIC",
+                "name": "Victoria",
+                "lineNames": ["District", "Circle", "Victoria"],
+                "colors": ["#007D32", "#FFD300", "#009FE0"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.114869173557957, 51.4626677839642] },
+            "properties": {
+                "id": "940GZZLUBXN",
+                "name": "Brixton",
+                "lineNames": ["Victoria"],
+                "colors": ["#009FE0"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.133683792044099, 51.489083026302] },
+            "properties": {
+                "id": "940GZZLUPCO",
+                "name": "Pimlico",
+                "lineNames": ["Victoria"],
+                "colors": ["#009FE0"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.124227036738512, 51.4856984493909] },
+            "properties": {
+                "id": "940GZZLUVXL",
+                "name": "Vauxhall",
+                "lineNames": ["Victoria"],
+                "colors": ["#009FE0"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.138316275529769, 51.5245289307367] },
+            "properties": {
+                "id": "940GZZLUWRR",
+                "name": "Warren Street",
+                "lineNames": ["Northern", "Victoria"],
+                "colors": ["#111111", "#009FE0"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.166003962649862, 51.5441617706067] },
+            "properties": {
+                "id": "940GZZLUDGE",
+                "name": "Dagenham East",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.198693956591701, 51.5497214798208] },
+            "properties": {
+                "id": "940GZZLUEPK",
+                "name": "Elm Park",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.219134036058355, 51.5540505146079] },
+            "properties": {
+                "id": "940GZZLUHCH",
+                "name": "Hornchurch",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.235853851010437, 51.5584976290184] },
+            "properties": {
+                "id": "940GZZLUUPB",
+                "name": "Upminster Bridge",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.226272239161867, 51.5060918115633] },
+            "properties": {
+                "id": "940GZZLUSBM",
+                "name": "Shepherd's Bush Market",
+                "lineNames": ["Hammersmith & City", "Circle"],
+                "colors": ["#F4A9BE", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.226621276502508, 51.501992974751] },
+            "properties": {
+                "id": "940GZZLUGHK",
+                "name": "Goldhawk Road",
+                "lineNames": ["Hammersmith & City", "Circle"],
+                "colors": ["#F4A9BE", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.21782991407451, 51.5134601262303] },
+            "properties": {
+                "id": "940GZZLULRD",
+                "name": "Latimer Road",
+                "lineNames": ["Hammersmith & City", "Circle"],
+                "colors": ["#F4A9BE", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.210877644206675, 51.517322093498] },
+            "properties": {
+                "id": "940GZZLULAD",
+                "name": "Ladbroke Grove",
+                "lineNames": ["Hammersmith & City", "Circle"],
+                "colors": ["#F4A9BE", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.187761671856866, 51.5190497492588] },
+            "properties": {
+                "id": "940GZZLURYO",
+                "name": "Royal Oak",
+                "lineNames": ["Hammersmith & City", "Circle"],
+                "colors": ["#F4A9BE", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.193151477589029, 51.4919855768237] },
+            "properties": {
+                "id": "940GZZLUECT",
+                "name": "Earl's Court",
+                "lineNames": ["District", "Piccadilly"],
+                "colors": ["#007D32", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.205716929565442, 51.5339801351448] },
+            "properties": {
+                "id": "940GZZLUQPS",
+                "name": "Queen's Park",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.196065723250765, 51.5091574066812] },
+            "properties": {
+                "id": "940GZZLUNHG",
+                "name": "Notting Hill Gate",
+                "lineNames": ["District", "Central", "Circle"],
+                "colors": ["#007D32", "#DC241F", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.175420466686948, 51.5116886706852] },
+            "properties": {
+                "id": "940GZZLULGT",
+                "name": "Lancaster Gate",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.157334022942238, 51.5136012982456] },
+            "properties": {
+                "id": "940GZZLUMBA",
+                "name": "Marble Arch",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.149656033847428, 51.514381142575] },
+            "properties": {
+                "id": "940GZZLUBND",
+                "name": "Bond Street",
+                "lineNames": ["Central", "Jubilee"],
+                "colors": ["#DC241F", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.323402230736006, 51.5367520396955] },
+            "properties": {
+                "id": "940GZZLUPVL",
+                "name": "Perivale",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.346481627280673, 51.5425923680157] },
+            "properties": {
+                "id": "940GZZLUGFD",
+                "name": "Greenford",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.259736737285887, 51.5236132092944] },
+            "properties": {
+                "id": "940GZZLUNAN",
+                "name": "North Acton",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.208703119435311, 51.4682560043575] },
+            "properties": {
+                "id": "940GZZLUPYB",
+                "name": "Putney Bridge",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.088882065096841, 51.5134270269479] },
+            "properties": {
+                "id": "940GZZLUBNK",
+                "name": "Bank",
+                "lineNames": ["Waterloo & City", "Northern", "Central"],
+                "colors": ["#76D0BD", "#111111", "#DC241F"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.141605199843146, 51.5153213176106] },
+            "properties": {
+                "id": "940GZZLUOXC",
+                "name": "Oxford Circus",
+                "lineNames": ["Central", "Bakerloo", "Victoria"],
+                "colors": ["#DC241F", "#894E24", "#009FE0"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.120390788915067, 51.5175798200696] },
+            "properties": {
+                "id": "940GZZLUHBN",
+                "name": "Holborn",
+                "lineNames": ["Central", "Piccadilly"],
+                "colors": ["#DC241F", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.111543537681388, 51.5182506335764] },
+            "properties": {
+                "id": "940GZZLUCHL",
+                "name": "Chancery Lane",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0499607914119404, 51.4979220145116] },
+            "properties": {
+                "id": "940GZZLUCWR",
+                "name": "Canada Water",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0643330364763774, 51.4977035120635] },
+            "properties": {
+                "id": "940GZZLUBMY",
+                "name": "Bermondsey",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0177266647432727, 51.5034310127041] },
+            "properties": {
+                "id": "940GZZLUCYF",
+                "name": "Canary Wharf",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.00431442974485736, 51.5005349611346] },
+            "properties": {
+                "id": "940GZZLUNGW",
+                "name": "North Greenwich",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.00797415841987278, 51.5141228765766] },
+            "properties": {
+                "id": "940GZZLUCGT",
+                "name": "Canning Town",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.204689921720116, 51.5469552390018] },
+            "properties": {
+                "id": "940GZZLUKBN",
+                "name": "Kilburn",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.190144437494366, 51.5468041342918] },
+            "properties": {
+                "id": "940GZZLUWHP",
+                "name": "West Hampstead",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.174814497247458, 51.5437076008137] },
+            "properties": {
+                "id": "940GZZLUSWC",
+                "name": "Swiss Cottage",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.181066237852478, 51.5472330755733] },
+            "properties": {
+                "id": "940GZZLUFYR",
+                "name": "Finchley Road",
+                "lineNames": ["Metropolitan", "Jubilee"],
+                "colors": ["#751056", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.178032911097111, 51.4181591066557] },
+            "properties": {
+                "id": "940GZZLUCSD",
+                "name": "Colliers Wood",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.135025978070087, 51.5645408826234] },
+            "properties": {
+                "id": "940GZZLUACY",
+                "name": "Archway",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.16836453629052, 51.4276757551805] },
+            "properties": {
+                "id": "940GZZLUTBY",
+                "name": "Tooting Broadway",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.15920812954631, 51.4358993700234] },
+            "properties": {
+                "id": "940GZZLUTBC",
+                "name": "Tooting Bec",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.147186832640558, 51.4532375285868] },
+            "properties": {
+                "id": "940GZZLUCPS",
+                "name": "Clapham South",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.137167009784716, 51.4622112335521] },
+            "properties": {
+                "id": "940GZZLUCPC",
+                "name": "Clapham Common",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.129333403541793, 51.4657303680798] },
+            "properties": {
+                "id": "940GZZLUCPN",
+                "name": "Clapham North",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.134317418003295, 51.5206035646107] },
+            "properties": {
+                "id": "940GZZLUGDG",
+                "name": "Goodge Street",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.130478416245152, 51.5164588799847] },
+            "properties": {
+                "id": "940GZZLUTCR",
+                "name": "Tottenham Court Road",
+                "lineNames": ["Central", "Northern"],
+                "colors": ["#DC241F", "#111111"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.178497747443859, 51.5565922765381] },
+            "properties": {
+                "id": "940GZZLUHTD",
+                "name": "Hampstead",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.1387241182319, 51.5347070026989] },
+            "properties": {
+                "id": "940GZZLUMTC",
+                "name": "Mornington Crescent",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.152616492596534, 51.5438606020943] },
+            "properties": {
+                "id": "940GZZLUCFM",
+                "name": "Chalk Farm",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.14072202813761, 51.5502963315101] },
+            "properties": {
+                "id": "940GZZLUKSH",
+                "name": "Kentish Town",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.13843964784622, 51.5568469062101] },
+            "properties": {
+                "id": "940GZZLUTFP",
+                "name": "Tufnell Park",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.112380891880082, 51.4818384288355] },
+            "properties": {
+                "id": "940GZZLUOVL",
+                "name": "Oval",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.105940029542131, 51.488341112167] },
+            "properties": {
+                "id": "940GZZLUKNG",
+                "name": "Kennington",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.247139059644396, 51.51659882902] },
+            "properties": {
+                "id": "940GZZLUEAN",
+                "name": "East Acton",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.560701231920061, 51.6680354766743] },
+            "properties": {
+                "id": "940GZZLUCAL",
+                "name": "Chalfont & Latimer",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.518531312608756, 51.6542976596829] },
+            "properties": {
+                "id": "940GZZLUCYD",
+                "name": "Chorleywood",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.223566003960841, 51.5101420095008] },
+            "properties": {
+                "id": "940GZZLUWLA",
+                "name": "Wood Lane",
+                "lineNames": ["Hammersmith & City", "Circle"],
+                "colors": ["#F4A9BE", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.103710311810678, 51.547426643679] },
+            "properties": {
+                "id": "940GZZLUHAI",
+                "name": "Highbury & Islington",
+                "lineNames": ["Victoria"],
+                "colors": ["#009FE0"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0417679754113589, 51.5868423163447] },
+            "properties": {
+                "id": "940GZZLUBLR",
+                "name": "Blackhorse Road",
+                "lineNames": ["Victoria"],
+                "colors": ["#009FE0"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0601394141716977, 51.5880504759689] },
+            "properties": {
+                "id": "940GZZLUTMH",
+                "name": "Tottenham Hale",
+                "lineNames": ["Victoria"],
+                "colors": ["#009FE0"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.187113881705539, 51.5102536052379] },
+            "properties": {
+                "id": "940GZZLUQWY",
+                "name": "Queensway",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0468504746763835, 51.6259845361285] },
+            "properties": {
+                "id": "940GZZLUBKH",
+                "name": "Buckhurst Hill",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0553645924484185, 51.6413140398805] },
+            "properties": {
+                "id": "940GZZLULGN",
+                "name": "Loughton",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0935350467670536, 51.6036417409427] },
+            "properties": {
+                "id": "940GZZLUHLT",
+                "name": "Hainault",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0923487439534445, 51.6131998649931] },
+            "properties": {
+                "id": "940GZZLUGGH",
+                "name": "Grange Hill",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0837935298675946, 51.645394091677] },
+            "properties": {
+                "id": "940GZZLUDBN",
+                "name": "Debden",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.114025844922751, 51.6935652064952] },
+            "properties": {
+                "id": "940GZZLUEPG",
+                "name": "Epping",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0454368373339516, 51.5762510367167] },
+            "properties": {
+                "id": "940GZZLURBG",
+                "name": "Redbridge",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.239016205755934, 51.5519642178543] },
+            "properties": {
+                "id": "940GZZLUDOH",
+                "name": "Dollis Hill",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.278620804099266, 51.5846432762628] },
+            "properties": {
+                "id": "940GZZLUKBY",
+                "name": "Kingsbury",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.286198003128832, 51.5941996009634] },
+            "properties": {
+                "id": "940GZZLUQBY",
+                "name": "Queensbury",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.308350944844092, 51.5702149819473] },
+            "properties": {
+                "id": "940GZZLUSKT",
+                "name": "South Kenton",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.334863781389938, 51.5920459310483] },
+            "properties": {
+                "id": "940GZZLUHAW",
+                "name": "Harrow & Wealdstone",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.276443341234838, 51.5441943674558] },
+            "properties": {
+                "id": "940GZZLUSGP",
+                "name": "Stonebridge Park",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.122144131709805, 51.5074532989423] },
+            "properties": {
+                "id": "940GZZLUEMB",
+                "name": "Embankment",
+                "lineNames": ["District", "Bakerloo", "Northern", "Circle"],
+                "colors": ["#007D32", "#894E24", "#111111", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.352071047655855, 51.5645509413175] },
+            "properties": {
+                "id": "940GZZLUSHH",
+                "name": "South Harrow",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.224454457556846, 51.5305736054161] },
+            "properties": {
+                "id": "940GZZLUKSL",
+                "name": "Kensal Green",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.258566531371696, 51.5367002109285] },
+            "properties": {
+                "id": "940GZZLUHSN",
+                "name": "Harlesden",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.29680323156636, 51.5522833291033] },
+            "properties": {
+                "id": "940GZZLUWYC",
+                "name": "Wembley Central",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.303859909432008, 51.5623957263737] },
+            "properties": {
+                "id": "940GZZLUNWY",
+                "name": "North Wembley",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.178772530509927, 51.5185148940872] },
+            "properties": {
+                "id": "940GZZLUPAH",
+                "name": "Paddington (H&C Line)",
+                "lineNames": ["Hammersmith & City"],
+                "colors": ["#F4A9BE"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.285018368341176, 51.4769978542773] },
+            "properties": {
+                "id": "940GZZLUKWG",
+                "name": "Kew Gardens",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.275113608793886, 51.4917426132631] },
+            "properties": {
+                "id": "940GZZLUGBY",
+                "name": "Gunnersbury",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.133662111522037, 51.5100620986633] },
+            "properties": {
+                "id": "940GZZLUPCC",
+                "name": "Piccadilly Circus",
+                "lineNames": ["Bakerloo", "Piccadilly"],
+                "colors": ["#894E24", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.127358365578834, 51.5073793841553] },
+            "properties": {
+                "id": "940GZZLUCHX",
+                "name": "Charing Cross",
+                "lineNames": ["Bakerloo", "Northern"],
+                "colors": ["#894E24", "#111111"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.101160770427679, 51.4958386917426] },
+            "properties": {
+                "id": "940GZZLUEAC",
+                "name": "Elephant & Castle",
+                "lineNames": ["Northern", "Bakerloo"],
+                "colors": ["#111111", "#894E24"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.112207385371564, 51.4988434974009] },
+            "properties": {
+                "id": "940GZZLULBN",
+                "name": "Lambeth North",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.170223205438699, 51.5204708733028] },
+            "properties": {
+                "id": "940GZZLUERB",
+                "name": "Edgware Road (Bakerloo)",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.185804459598915, 51.5297309387148] },
+            "properties": {
+                "id": "940GZZLUMVL",
+                "name": "Maida Vale",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.193995458251398, 51.5349495027193] },
+            "properties": {
+                "id": "940GZZLUKPK",
+                "name": "Kilburn Park",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.164215220446776, 51.5221606227201] },
+            "properties": {
+                "id": "940GZZLUMYB",
+                "name": "Marylebone",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.146287770475268, 51.5232801488787] },
+            "properties": {
+                "id": "940GZZLURGP",
+                "name": "Regent's Park",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.156310789558297, 51.4923380170884] },
+            "properties": {
+                "id": "940GZZLUSSQ",
+                "name": "Sloane Square",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.235752094598315, 51.4941687153592] },
+            "properties": {
+                "id": "940GZZLURVP",
+                "name": "Ravenscourt Park",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.223018446935571, 51.4920004980521] },
+            "properties": {
+                "id": "940GZZLUHSD",
+                "name": "Hammersmith (Dist&Picc Line)",
+                "lineNames": ["District", "Piccadilly"],
+                "colors": ["#007D32", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.164595401481609, 51.5503280491108] },
+            "properties": {
+                "id": "940GZZLUBZP",
+                "name": "Belsize Park",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.109833682268479, 51.5974740526689] },
+            "properties": {
+                "id": "940GZZLUWOG",
+                "name": "Wood Green",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.124316721796801, 51.6070665091036] },
+            "properties": {
+                "id": "940GZZLUBDS",
+                "name": "Bounds Green",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.125633447749655, 51.5009655911588] },
+            "properties": {
+                "id": "940GZZLUWSM",
+                "name": "Westminster",
+                "lineNames": ["District", "Circle", "Jubilee"],
+                "colors": ["#007D32", "#FFD300", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.210106190562842, 51.4977366172402] },
+            "properties": {
+                "id": "940GZZLUKOY",
+                "name": "Kensington (Olympia)",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.134572986979356, 51.5280864880292] },
+            "properties": {
+                "id": "940GZZLUEUS",
+                "name": "Euston",
+                "lineNames": ["Northern", "Victoria"],
+                "colors": ["#111111", "#009FE0"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.114401197448965, 51.5034266227996] },
+            "properties": {
+                "id": "940GZZLUWLO",
+                "name": "Waterloo",
+                "lineNames": ["Waterloo & City", "Bakerloo", "Northern", "Jubilee"],
+                "colors": ["#76D0BD", "#894E24", "#111111", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.251143119887474, 51.5590893129807] },
+            "properties": {
+                "id": "940GZZLUUPM",
+                "name": "Upminster",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.00431036557187099, 51.5282808249125] },
+            "properties": {
+                "id": "940GZZLUWHM",
+                "name": "West Ham",
+                "lineNames": ["District", "Hammersmith & City", "Jubilee"],
+                "colors": ["#007D32", "#F4A9BE", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0214898931964473, 51.5831214954807] },
+            "properties": {
+                "id": "940GZZLUWWL",
+                "name": "Walthamstow Central",
+                "lineNames": ["Victoria"],
+                "colors": ["#009FE0"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.300982951016848, 51.5150055321924] },
+            "properties": {
+                "id": "940GZZLUEBY",
+                "name": "Ealing Broadway",
+                "lineNames": ["District", "Central"],
+                "colors": ["#007D32", "#DC241F"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.279999104605516, 51.5026464502868] },
+            "properties": {
+                "id": "940GZZLUACT",
+                "name": "Acton Town",
+                "lineNames": ["District", "Piccadilly"],
+                "colors": ["#007D32", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.288121126759677, 51.5095442418354] },
+            "properties": {
+                "id": "940GZZLUECM",
+                "name": "Ealing Common",
+                "lineNames": ["District", "Piccadilly"],
+                "colors": ["#007D32", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.142516829185471, 51.5068691045559] },
+            "properties": {
+                "id": "940GZZLUGPK",
+                "name": "Green Park",
+                "lineNames": ["Piccadilly", "Victoria", "Jubilee"],
+                "colors": ["#0019A8", "#009FE0", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.106653230276946, 51.5645726811384] },
+            "properties": {
+                "id": "940GZZLUFPK",
+                "name": "Finsbury Park",
+                "lineNames": ["Piccadilly", "Victoria"],
+                "colors": ["#0019A8", "#009FE0"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.12301670611174, 51.4718293063076] },
+            "properties": {
+                "id": "940GZZLUSKW",
+                "name": "Stockwell",
+                "lineNames": ["Northern", "Victoria"],
+                "colors": ["#111111", "#009FE0"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.194730076004683, 51.4025372733651] },
+            "properties": {
+                "id": "940GZZLUMDN",
+                "name": "Morden",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.224905917275528, 51.4937850044917] },
+            "properties": {
+                "id": "940GZZLUHSC",
+                "name": "Hammersmith (H&C Line)",
+                "lineNames": ["Hammersmith & City"],
+                "colors": ["#F4A9BE"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.423443496172184, 51.466627826375] },
+            "properties": {
+                "id": "940GZZLUHNX",
+                "name": "Hatton Cross",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.385772788856648, 51.4736187452599] },
+            "properties": {
+                "id": "940GZZLUHWT",
+                "name": "Hounslow West",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.366272590499386, 51.4713196785983] },
+            "properties": {
+                "id": "940GZZLUHWC",
+                "name": "Hounslow Central",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.356313033726448, 51.4732627979418] },
+            "properties": {
+                "id": "940GZZLUHWE",
+                "name": "Hounslow East",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.352199309980199, 51.4812435134735] },
+            "properties": {
+                "id": "940GZZLUOSY",
+                "name": "Osterley",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.312972772078149, 51.4996553291648] },
+            "properties": {
+                "id": "940GZZLUNFD",
+                "name": "Northfields",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.214660488067239, 51.4902993374424] },
+            "properties": {
+                "id": "940GZZLUBSC",
+                "name": "Barons Court",
+                "lineNames": ["District", "Piccadilly"],
+                "colors": ["#007D32", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.194742482172033, 51.4807686154393] },
+            "properties": {
+                "id": "940GZZLUFBY",
+                "name": "Fulham Broadway",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.195547893072088, 51.4872805047592] },
+            "properties": {
+                "id": "940GZZLUWBN",
+                "name": "West Brompton",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.245978135514486, 51.4949190385423] },
+            "properties": {
+                "id": "940GZZLUSFB",
+                "name": "Stamford Brook",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.254527388575046, 51.4949587165302] },
+            "properties": {
+                "id": "940GZZLUTNG",
+                "name": "Turnham Green",
+                "lineNames": ["District", "Piccadilly"],
+                "colors": ["#007D32", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0711272239163643, 51.5154283167147] },
+            "properties": {
+                "id": "940GZZLUADE",
+                "name": "Aldgate East",
+                "lineNames": ["Hammersmith & City", "District"],
+                "colors": ["#F4A9BE", "#007D32"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0607419957606385, 51.5195334172938] },
+            "properties": {
+                "id": "940GZZLUWPL",
+                "name": "Whitechapel",
+                "lineNames": ["District", "Hammersmith & City"],
+                "colors": ["#007D32", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0251756872866841, 51.5269041227919] },
+            "properties": {
+                "id": "940GZZLUBWR",
+                "name": "Bow Road",
+                "lineNames": ["District", "Hammersmith & City"],
+                "colors": ["#007D32", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.280026668594193, 51.5637628889937] },
+            "properties": {
+                "id": "940GZZLUWYP",
+                "name": "Wembley Park",
+                "lineNames": ["Metropolitan", "Jubilee"],
+                "colors": ["#751056", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.251146617248987, 51.5544285977155] },
+            "properties": {
+                "id": "940GZZLUNDN",
+                "name": "Neasden",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.179179947727096, 51.6305906764516] },
+            "properties": {
+                "id": "940GZZLUTAW",
+                "name": "Totteridge & Whetstone",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.445693269874028, 51.4585405410818] },
+            "properties": {
+                "id": "940GZZLUHR4",
+                "name": "Heathrow Terminal 4",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.280930981543848, 51.5179813957527] },
+            "properties": {
+                "id": "940GZZLUWTA",
+                "name": "West Acton",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-0.00377677245805808, 51.5414582459241]
+            },
+            "properties": {
+                "id": "940GZZLUSTD",
+                "name": "Stratford",
+                "lineNames": ["Central", "Jubilee"],
+                "colors": ["#DC241F", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.47761385063621, 51.546464016624] },
+            "properties": {
+                "id": "940GZZLUUXB",
+                "name": "Uxbridge",
+                "lineNames": ["Metropolitan", "Piccadilly"],
+                "colors": ["#751056", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.449363066188412, 51.5539509504471] },
+            "properties": {
+                "id": "940GZZLUHGD",
+                "name": "Hillingdon",
+                "lineNames": ["Metropolitan", "Piccadilly"],
+                "colors": ["#751056", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.442019216932921, 51.5619706644323] },
+            "properties": {
+                "id": "940GZZLUICK",
+                "name": "Ickenham",
+                "lineNames": ["Metropolitan", "Piccadilly"],
+                "colors": ["#751056", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.421769765301183, 51.5712934498542] },
+            "properties": {
+                "id": "940GZZLURSP",
+                "name": "Ruislip",
+                "lineNames": ["Metropolitan", "Piccadilly"],
+                "colors": ["#751056", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.411791491503135, 51.5734778825197] },
+            "properties": {
+                "id": "940GZZLURSM",
+                "name": "Ruislip Manor",
+                "lineNames": ["Metropolitan", "Piccadilly"],
+                "colors": ["#751056", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.408724956208854, 51.6001951578344] },
+            "properties": {
+                "id": "940GZZLUNWH",
+                "name": "Northwood Hills",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.353268235642068, 51.5795683742179] },
+            "properties": {
+                "id": "940GZZLUWHW",
+                "name": "West Harrow",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.371424615779741, 51.5751970766605] },
+            "properties": {
+                "id": "940GZZLURYL",
+                "name": "Rayners Lane",
+                "lineNames": ["Metropolitan", "Piccadilly"],
+                "colors": ["#751056", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.362582721579554, 51.5849491481384] },
+            "properties": {
+                "id": "940GZZLUNHA",
+                "name": "North Harrow",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.381140145085807, 51.5928280888514] },
+            "properties": {
+                "id": "940GZZLUPNR",
+                "name": "Pinner",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.336729895702129, 51.5794163171942] },
+            "properties": {
+                "id": "940GZZLUHOH",
+                "name": "Harrow-on-the-Hill",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.318043772012892, 51.5784768993842] },
+            "properties": {
+                "id": "940GZZLUNKP",
+                "name": "Northwick Park",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.303238655645259, 51.6197138463166] },
+            "properties": {
+                "id": "940GZZLUSTM",
+                "name": "Stanmore",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.294670499457552, 51.6077114607851] },
+            "properties": {
+                "id": "940GZZLUCPK",
+                "name": "Canons Park",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.174122398684123, 51.5352069573221] },
+            "properties": {
+                "id": "940GZZLUSJW",
+                "name": "St. John's Wood",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.10537174281666, 51.5042889814589] },
+            "properties": {
+                "id": "940GZZLUSWK",
+                "name": "Southwark",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0896226740260041, 51.5050664437801] },
+            "properties": {
+                "id": "940GZZLULNB",
+                "name": "London Bridge",
+                "lineNames": ["Northern", "Jubilee"],
+                "colors": ["#111111", "#A0A5A9"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.206490546635829, 51.4214342815961] },
+            "properties": {
+                "id": "940GZZLUWIM",
+                "name": "Wimbledon",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.188317206667133, 51.6094899674085] },
+            "properties": {
+                "id": "940GZZLUWFN",
+                "name": "West Finchley",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.14337592387698, 51.479476844446] },
+            "properties": {
+                "id": "Battersea Power Station",
+                "name": "Battersea Power Station",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.129460177384867, 51.4801402495606] },
+            "properties": {
+                "id": "Nine Elms",
+                "name": "Nine Elms",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.274754442836556, 51.613610747663] },
+            "properties": {
+                "id": "940GZZLUEGW",
+                "name": "Edgware",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.288802338201631, 51.5174834180896] },
+            "properties": {
+                "id": "940GZZLUNEN",
+                "name": "North Ealing",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.118447284607226, 51.5485259828216] },
+            "properties": {
+                "id": "940GZZLUCAR",
+                "name": "Caledonian Road",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0860876220905986, 51.5107212088704] },
+            "properties": {
+                "id": "940GZZLUMMT",
+                "name": "Monument",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.144265574194803, 51.5238482366569] },
+            "properties": {
+                "id": "940GZZLUGPS",
+                "name": "Great Portland Street",
+                "lineNames": ["Metropolitan", "Circle", "Hammersmith & City"],
+                "colors": ["#751056", "#FFD300", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.206629303693064, 51.4450797805852] },
+            "properties": {
+                "id": "940GZZLUSFS",
+                "name": "Southfields",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.147546820248486, 51.5416184804187] },
+            "properties": {
+                "id": "940GZZLUDGY",
+                "name": "Dagenham Heathway",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.452405626454076, 51.4713042858625] },
+            "properties": {
+                "id": "940GZZLUHRC",
+                "name": "Heathrow Terminals 1-2-3",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.201128498562751, 51.5209217056555] },
+            "properties": {
+                "id": "940GZZLUWSP",
+                "name": "Westbourne Park",
+                "lineNames": ["Hammersmith & City", "Circle"],
+                "colors": ["#F4A9BE", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.292661519529402, 51.5301868520695] },
+            "properties": {
+                "id": "940GZZLUHGR",
+                "name": "Hanger Lane",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0662207253079739, 51.576536215128] },
+            "properties": {
+                "id": "940GZZLUGTH",
+                "name": "Gants Hill",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0114338205293123, 51.5247616983537] },
+            "properties": {
+                "id": "940GZZLUBBB",
+                "name": "Bromley-by-Bow",
+                "lineNames": ["District", "Hammersmith & City"],
+                "colors": ["#007D32", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.301646518963653, 51.4631184318418] },
+            "properties": {
+                "id": "940GZZLURMD",
+                "name": "Richmond",
+                "lineNames": ["District"],
+                "colors": ["#007D32"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.183581995971193, 51.5232005763863] },
+            "properties": {
+                "id": "940GZZLUWKA",
+                "name": "Warwick Avenue",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.133601971319782, 51.4995625338571] },
+            "properties": {
+                "id": "940GZZLUSJP",
+                "name": "St. James's Park",
+                "lineNames": ["District", "Circle"],
+                "colors": ["#007D32", "#FFD300"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.102946674314524, 51.5902548148168] },
+            "properties": {
+                "id": "940GZZLUTPN",
+                "name": "Turnpike Lane",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.0802091295641631, 51.5398861475186] },
+            "properties": {
+                "id": "940GZZLUBKG",
+                "name": "Barking",
+                "lineNames": ["District", "Hammersmith & City"],
+                "colors": ["#007D32", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.193281732374388, 51.4149885265076] },
+            "properties": {
+                "id": "940GZZLUSWN",
+                "name": "South Wimbledon",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.325573315900841, 51.4952201373787] },
+            "properties": {
+                "id": "940GZZLUBOS",
+                "name": "Boston Manor",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0465638518234286, 51.5218629258813] },
+            "properties": {
+                "id": "940GZZLUSGN",
+                "name": "Stepney Green",
+                "lineNames": ["District", "Hammersmith & City"],
+                "colors": ["#007D32", "#F4A9BE"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.194140784281301, 51.650524935439] },
+            "properties": {
+                "id": "940GZZLUHBT",
+                "name": "High Barnet",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.397346888916094, 51.5765138944014] },
+            "properties": {
+                "id": "940GZZLUEAE",
+                "name": "Eastcote",
+                "lineNames": ["Metropolitan", "Piccadilly"],
+                "colors": ["#751056", "#0019A8"],
+                "interchange": true
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.607682857863921, 51.6741494619535] },
+            "properties": {
+                "id": "940GZZLUAMS",
+                "name": "Amersham",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.222691934916957, 51.549374676036] },
+            "properties": {
+                "id": "940GZZLUWIG",
+                "name": "Willesden Green",
+                "lineNames": ["Jubilee"],
+                "colors": ["#A0A5A9"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.15266560362294, 51.4436277491606] },
+            "properties": {
+                "id": "940GZZLUBLM",
+                "name": "Balham",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.142597262583471, 51.5392327631812] },
+            "properties": {
+                "id": "940GZZLUCTN",
+                "name": "Camden Town",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.488020171532433, 51.472526161045] },
+            "properties": {
+                "id": "940GZZLUHR5",
+                "name": "Heathrow Terminal 5",
+                "lineNames": ["Piccadilly"],
+                "colors": ["#0019A8"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.244549258009932, 51.5324055111114] },
+            "properties": {
+                "id": "940GZZLUWJN",
+                "name": "Willesden Junction",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.165018716089878, 51.5871566525116] },
+            "properties": {
+                "id": "940GZZLUEFY",
+                "name": "East Finchley",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.146442109971085, 51.5778466191736] },
+            "properties": {
+                "id": "940GZZLUHGT",
+                "name": "Highgate",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.610957106041938, 51.7052267134821] },
+            "properties": {
+                "id": "940GZZLUCSM",
+                "name": "Chesham",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.47368448665146, 51.640291811549] },
+            "properties": {
+                "id": "940GZZLURKW",
+                "name": "Rickmansworth",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.43226536317211, 51.6298703587364] },
+            "properties": {
+                "id": "940GZZLUMPK",
+                "name": "Moor Park",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.423914085984195, 51.6110173420822] },
+            "properties": {
+                "id": "940GZZLUNOW",
+                "name": "Northwood",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.441746350839895, 51.647081796] },
+            "properties": {
+                "id": "940GZZLUCXY",
+                "name": "Croxley",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.417389649821613, 51.6574853137725] },
+            "properties": {
+                "id": "940GZZLUWAF",
+                "name": "Watford",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0932872382983211, 51.501192719769] },
+            "properties": {
+                "id": "940GZZLUBOR",
+                "name": "Borough",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0876109178742374, 51.5250870447369] },
+            "properties": {
+                "id": "940GZZLUODS",
+                "name": "Old Street",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.104700331754964, 51.5314896253369] },
+            "properties": {
+                "id": "940GZZLUAGL",
+                "name": "Angel",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.22632104409561, 51.5831746651484] },
+            "properties": {
+                "id": "940GZZLUHCL",
+                "name": "Hendon Central",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.0724847052278185, 51.5833999195093] },
+            "properties": {
+                "id": "940GZZLUSVS",
+                "name": "Seven Sisters",
+                "lineNames": ["Victoria"],
+                "colors": ["#009FE0"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [0.103354074905424, 51.6718358056893] },
+            "properties": {
+                "id": "940GZZLUTHB",
+                "name": "Theydon Bois",
+                "lineNames": ["Central"],
+                "colors": ["#DC241F"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.316705448121499, 51.5816135016238] },
+            "properties": {
+                "id": "940GZZLUKEN",
+                "name": "Kenton",
+                "lineNames": ["Bakerloo"],
+                "colors": ["#894E24"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.185486090420871, 51.6180893540403] },
+            "properties": {
+                "id": "940GZZLUWOP",
+                "name": "Woodside Park",
+                "lineNames": ["Northern"],
+                "colors": ["#111111"],
+                "interchange": false
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [-0.295106291500494, 51.5720161479392] },
+            "properties": {
+                "id": "940GZZLUPRD",
+                "name": "Preston Road",
+                "lineNames": ["Metropolitan"],
+                "colors": ["#751056"],
+                "interchange": false
+            }
+        }
+    ]
+}
